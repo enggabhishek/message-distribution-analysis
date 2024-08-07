@@ -29,7 +29,7 @@ This rich, dynamic dataset is a living history of customer interaction, a treasu
 
 1. Azure Data Lake Gen 2 (Blob Storage)
 2. Snowflake
-3. PowerBI
+3. Power BI
 4. Python
     - Scikit-learn
     - SMOTE
