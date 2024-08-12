@@ -1,6 +1,6 @@
 # Message-Distribution-Analysis
 
-## Decription
+## Description
 
 Picture a bustling digital marketplace, where a medium-sized retail company weaves an intricate tapestry of communication with its customers. This vibrant tapestry, spanning two years, is a kaleidoscope of messages, each thread representing a different channel: the swift arrows of email, the gentle whispers of web push notifications, the insistent taps of mobile alerts, and the direct drumbeats of SMS.
 
