@@ -33,7 +33,7 @@ This rich, dynamic dataset is a living history of customer interaction, a treasu
 4. Python
     - Scikit-learn
     - SMOTE
-![alt text](Flowchart_Messages.jpg)
+![alt text](flowchart_messages.jpg)
 
 ## Exploratory Data Analysis:
 
